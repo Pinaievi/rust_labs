@@ -1,0 +1,9 @@
+# Rust build artifacts
+**/target/
+
+# Rust compiler backup files
+*.rs.bk
+
+# OS metadata
+.DS_Store
+Thumbs.db
